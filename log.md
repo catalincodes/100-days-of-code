@@ -27,7 +27,12 @@
 
 ### Day 2: May 18, Wednesday
 
-** Today's Progress**: I have looked at the JS file which I need to modify. Noticed that I need to make hard modifications to the DB if I don't want to wait until Sunday. Did a refresher on MySQL and tested on a bidon database running transactions on MySQL. 
+**Today's Progress**: I have looked at the JS file which I need to modify. Noticed that I need to make hard modifications to the DB if I don't want to wait until Sunday. Did a refresher on MySQL and tested on a bidon database running transactions on MySQL. 
 
 **Thoughts** Documentation is seriously underrated. The documentation I wrote on Monday sped up my start-up time from 5 minutes to 20 seconds. I had all the commands, how many terminals, which URL to use to validate ALL WRITTEN DOWN. It made a huge difference.
 
+### Day 3: May 20, Friday
+
+**Today's progress**: I have executed the database script I wrote on Wednesday. Got it to work just fine, but I need to do more digging. 
+
+**Thoughts**: Planning and analyzing helps. I definitely made some minimal progress. I will want to do some more work this weekend and close this user story.
