@@ -36,3 +36,10 @@
 **Today's progress**: I have executed the database script I wrote on Wednesday. Got it to work just fine, but I need to do more digging. 
 
 **Thoughts**: Planning and analyzing helps. I definitely made some minimal progress. I will want to do some more work this weekend and close this user story.
+
+
+### Day 4: May 22, Sunday
+
+**Today's progress**: I have looked at the actual code and tried to do further analysis. I am done analyzing for now. I went ahead and wrote the new user story for the next step as outlined in the EPIC and I'm going to start modifying the current code next time.
+
+**Thoughts**: I knew analyzing code would pay off. I found out that functionality that I'm supposed to replace is present in two scenarios. Removing one does not prevent the other use case from executing the same kind of code. I will have to discuss the discoveries with the PO.

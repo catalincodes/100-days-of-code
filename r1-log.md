@@ -12,3 +12,6 @@ Played with MYSQL and designed the script I needed for debugging the current sta
 
 ### R1D3
 Continued with MySQL. Script worked fine. For some reason there is an non-critical error. Can't wait to finish user story this we.
+
+### R1D4
+Moved back to the code and checked if the functionality that is to be removed is used elsewhere and documented my findings.
