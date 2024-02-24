@@ -43,3 +43,34 @@
 **Today's progress**: I have looked at the actual code and tried to do further analysis. I am done analyzing for now. I went ahead and wrote the new user story for the next step as outlined in the EPIC and I'm going to start modifying the current code next time.
 
 **Thoughts**: I knew analyzing code would pay off. I found out that functionality that I'm supposed to replace is present in two scenarios. Removing one does not prevent the other use case from executing the same kind of code. I will have to discuss the discoveries with the PO.
+
+---
+### Day 1: February 9, 2023 
+
+**Today's Progress**: Planning.
+
+### Day 2: February 10, 2023
+
+**Today's Progress**: 
+- Made a vision board of what I want to accomplish
+- Installed PyCharm and acquainted with the IDE
+- Read Chapter 6, the theory and did 2 small exos as practice
+
+### Day 3: February 11, 2023
+
+**Today's Progress**: 
+- Finished reading chapter 6, the theory and did one last exo as practice
+- Did the Q&A at the end of chapter
+- Started the 1st project
+
+### Day 4: February 24, 2023
+
+**Today's Progress**: 
+* Set up SSH/GPG/GH CLI
+* Clone Repo
+* Set Up IDE and fix .gitignore file
+* Install PostGreSQL
+* Set Up DB
+* Look into what is required to make bot work
+
+**Thoughts**: I will need to set up a Discord bot and ideally connect it to 2 servers, not just one. The code needs to be adapted as Discord.Py changed a lot.
